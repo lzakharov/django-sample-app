@@ -105,3 +105,6 @@ ENV/
 
 # JetBrains
 .idea
+
+# SQLite
+db.sqlite3
